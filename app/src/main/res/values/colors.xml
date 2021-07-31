@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f4d300</color>
+    <color name="colorPrimaryDark">#D8BB03</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="red">#CA0000</color>
+    <color name="black"> #000000</color>
+    <color name="yellow">#f4d300</color>
+    <color name="lightyellow">#BFAE16</color>
+    <color name="colorsSecondary">#9C27B0</color>
+    <color name="colorPrimaryVariant">#7B1FA2</color>
+    <color  name="colorOnPrimary">#FFFFFF</color>
+    <color  name="etStrokeColor">#A89202</color>
+    <color  name="gradientEndColor">#A89202</color>
+    <!-- Secondary brand color. -->
+    <color  name="colorSecondary">#80CBC4</color>
+    <color  name="colorSecondaryVariant">#00796B</color>
+
+</resources>
